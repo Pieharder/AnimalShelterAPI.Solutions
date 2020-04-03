@@ -25,6 +25,10 @@ This is a project designed to create a fully CRUD functional API for an animal s
 * PUT /api/Animals/{id}
 * DELETE /api/Animals/{id}
 
+#### Swagger Project Documentation
+
+[Swagger Routing](https://app.swaggerhub.com/apis/MyNameJef/animal-shelter_api/1.0.0)
+
 ## Setup/Installation Requirements
 
 ### Install .NET Core
