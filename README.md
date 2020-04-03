@@ -10,7 +10,7 @@ This is a project designed to create a fully CRUD functional API for an animal s
 
 ## Specifications:
 
-* A user will be able to pull a list of animals in the shelter from the database via the API.
+* A user will be able to pull a full list of animals or a single animal in the shelter from the database via the API.
 * A user will be able to add new animals to the database via the API.
 * A user will be able to edit an animal entry in the db via the API.
 * A user will be able to remove an entry from the db via the API.
