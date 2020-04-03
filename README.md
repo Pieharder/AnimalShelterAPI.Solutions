@@ -1,6 +1,6 @@
 # Message Board
 
-#### _Epicodus 2020 C#/React Cohort Building an API Project._
+#### _Epicodus 2020 C#/React Cohort Building an API Friday Project._
 
 #### By _**Geoff Goetz | 3 April 2020**_
 
@@ -17,7 +17,13 @@ This is a project designed to create a fully CRUD functional API for an animal s
 
 ## API ENDPOINTS: 
 
+#### Animals: 
 
+* GET /api/Animals
+* POST /api/Animals
+* GET /api/Animals/{id}
+* PUT /api/Animals/{id}
+* DELETE /api/Animals/{id}
 
 ## Setup/Installation Requirements
 
