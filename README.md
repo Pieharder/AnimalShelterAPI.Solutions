@@ -27,7 +27,7 @@ This is a project designed to create a fully CRUD functional API for an animal s
 
 #### Swagger Project Documentation
 
-[Swagger Routing](https://app.swaggerhub.com/apis/MyNameJef/animal-shelter_api/1.0.0)
+* Access the swagger UI by navigating to ``AnimalShelter`` and typing ``dotnet run`` then open your preffered browser and copy ``http://localhost:5000/swagger`` or access the online swagger routing [here](https://app.swaggerhub.com/apis/MyNameJef/animal-shelter_api/1.0.0).
 
 ## Setup/Installation Requirements
 
