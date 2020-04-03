@@ -1,4 +1,4 @@
-# Message Board
+# Animal Shelter API
 
 #### _Epicodus 2020 C#/React Cohort Building an API Friday Project._
 
